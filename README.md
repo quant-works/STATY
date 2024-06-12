@@ -7,7 +7,7 @@ STATY is an ongoing educational project designed with the aim of improving data 
 **STATY offers two options to get started:**
 
 * **Source Code:** This guide provides detailed instructions for installing and running STATY from the source code. 
-* **Portable Version:** Information on obtaining a user-friendly, ready-to-run portable version can be found [here](https://github.com/lilulamili/STATY/wiki/STATY).
+* **Portable Version:** Information on obtaining a user-friendly, ready-to-run portable version can be found [here](https://github.com/quant-works/STATY/wiki/STATY).
 
 
 ## Getting started with source code 
